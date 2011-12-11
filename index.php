@@ -19,7 +19,7 @@
     <input size="60" id="input"/>
     <button id="foxit">Foxit!</button>
     <br/><br/>
-    <textarea name="urls" rows="10" cols="60" id="output" readonly="readonly"></textarea>
+    <textarea name="urls" rows="10" cols="60" id="output" readonly="readonly" wrap="off"></textarea>
     <button id="clear">清除</button>
   </div>
 </div>
