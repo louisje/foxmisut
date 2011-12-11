@@ -13,5 +13,6 @@ $(function() {
   });
   $('#clear').button().click(function() {
     $('#output').text('');
+    $('#input').val('');
   });
 });
