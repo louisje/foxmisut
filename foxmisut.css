@@ -1,0 +1,4 @@
+#output, #input, body {
+  background: url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/pepper-grinder/images/ui-bg_fine-grain_15_ffffff_60x60.png);
+  overflow:   auto;
+}
